@@ -1,0 +1,29 @@
+PODS:
+  - Adyen/Encryption (4.8.0)
+  - adyen_helper (0.0.1):
+    - Adyen/Encryption (= 4.8.0)
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - adyen_helper (from `.symlinks/plugins/adyen_helper/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - Adyen
+
+EXTERNAL SOURCES:
+  adyen_helper:
+    :path: ".symlinks/plugins/adyen_helper/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  Adyen: 7fa295453ebd2c014221e17f24590ec70e886709
+  adyen_helper: 55c80e48369fc555213b11474ab020dc85eb28f2
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.3
