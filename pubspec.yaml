@@ -1,8 +1,7 @@
 name: adyen_helper
 description: Adyen custom card integration for Android and iOS. Provide bridge to encrypt credit card data for adyen payment endpoint.
 version: 0.0.1
-homepage: test
-repository: test
+repository: https://github.com/AuroreT/adyen_helper
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
