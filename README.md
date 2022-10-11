@@ -14,7 +14,7 @@ CreditCardMdl _creditCard = CreditCardMdl(
     expiryMonth: "<MM>",
     expiryYear: "<YYYY>",
     holderName: "<HOLDER_NAME>",
-    number: "CARD_NUMBER",
+    number: "<CARD_NUMBER>",
     cvc: "<CARD_VERIFICATION_CODE>");
 
 void _handleResult(AdyenEncryptedCardMdl? value) {
